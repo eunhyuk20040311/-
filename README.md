@@ -2,8 +2,8 @@
 ![image](https://user-images.githubusercontent.com/102715143/170224572-6e2d6d7a-4b21-4771-abbb-d6395b7db6fa.png)
 ![image](https://user-images.githubusercontent.com/102715143/170224090-fa8236df-1eda-4af5-877e-7dff29097b94.png)
 #img_counte
-1.image_count.php 파일을 만듭니다.
-2.count.txt파일을 만듭니다.
+1.image_count.php 파일을 만듭니다.<br>
+2.count.txt파일을 만듭니다.<br>
 **변수 설명**
 3.2행에 $fp = fopen("count.txt","r+")에 의해 count.txt파일을 읽고, 쓰기 위한 변수.
 4.3행에  $num = fgets($fp, 10) count.txt에서 10파이트 만큼 읽어오기 위한 변수.
